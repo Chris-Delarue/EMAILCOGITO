@@ -1,0 +1,6 @@
+Bleu prénom et nom : #3776FF
+Bleu bouton : #6694FC
+Bleu bandeau du bas : #002471
+
+Gris texte "contact" : #5F6061
+Gris texte "fonction" : #363637

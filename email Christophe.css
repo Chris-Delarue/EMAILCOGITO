@@ -1,0 +1,22 @@
+table {
+  background-color:#f9fbff;
+  width:500px; 
+  height:250px
+}
+h1 {
+  font-family:'Montserrat';
+  font-size:25px;
+  font-weight:800;
+  color:#3e7afb;
+}
+h2{
+  font-family:'Montserrat'; 
+  font-weight:500;
+  font-size:20px;
+}
+em {
+  font-family:'Montserrat';
+  font-weight:300;
+  font-size:18px;
+  color:black;
+}
