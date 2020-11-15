@@ -5,8 +5,9 @@
     font-family:'Montserrat';
   }
   #signature_email{
-    height:250px;
-    width:25%;
+    display:flex;
+    flex-flow: wrap;
+    width:30%;
     margin-left:2%;
   }
   .card{
@@ -14,12 +15,11 @@
     flex-wrap: wrap;
     margin: 0%;
     width: 100%;
-    height:250px;
+    height:270px;
     padding:0%;
     margin:0%;
-    background-color:azure;
+    background-color:00f8ff;
   }
-  
   .card_image{
     width:39%;
   }
@@ -27,7 +27,7 @@
     width: 70%;
     height:150px;
     border-radius:50%;
-    margin:15% 0% 0% 10%;
+    margin:30% 0% 0% 10%;
   }
   h1{
     color:#3776ff;
@@ -66,7 +66,7 @@
   }
   .rendez_vous{
     background-color:#6595fe;
-    width:85%; 
+    width:65%; 
     text-align: center;
     padding:3% 0% 1% 0%;
   }
@@ -88,7 +88,7 @@
    float:left;
    padding: 2% 0% 0% 3%;
    color:white;
-   width:30%;
+   width:35%;
    font-family:'Monteserrat';
  }
  .logo_cogito img{
@@ -107,4 +107,18 @@
    height:20px;
  }
 
+@media screen 
+and (max-device-width:667px){
 
+  #signature_email{
+    display:flex;
+    flex-wrap:wrap;
+    width:100%;
+    margin:0%;
+  }
+  footer{
+    display:flex;
+    flex-flow: wrap;
+    width:100%;
+  }
+}
