@@ -4,7 +4,6 @@
     padding:0;
     font-family:'Montserrat';
   }
-
 #card{
   width: 30%;
   height:250px;
@@ -54,6 +53,7 @@ em.rendez_vous {
 /*FOOTER*/
 
   footer {
+    display:block;
     position:absolute;
     width:30%;
     height:45px;
