@@ -54,7 +54,6 @@ em.rendez_vous {
 /*FOOTER*/
 
   footer {
-    display: block;
     width:30%;
     height:45px;
     padding:0%;
@@ -83,5 +82,5 @@ em.rendez_vous {
 .social_media{
     float:right;
     padding-right:10px;
-    margin:2% 1% 0% 0%;
+    margin:3% 1% 0% 0%;
   }
