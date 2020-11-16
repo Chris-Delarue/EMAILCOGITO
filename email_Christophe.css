@@ -9,7 +9,6 @@
   width: 30%;
   height:250px;
   background-color:#f9fbff;
-  margin-left:10%;
 }
 td.my_image{
   width:15%;
@@ -58,7 +57,6 @@ em.rendez_vous {
     display: block;
     width:30%;
     height:45px;
-    margin: 0% 0% 0% 10%;
     padding:0%;
     background-color:#002471;
   }
